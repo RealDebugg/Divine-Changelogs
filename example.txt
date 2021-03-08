@@ -1,0 +1,418 @@
+<ul>
+
+<h1>Dastardly Deeds</h1>
+<small>Version 1.30 / UPDATED 02.09.21</small>
+
+<h5>IMPORTANT</h5>
+<li>Salty Chat has been updated to version 2.2.0 (Please update your client, if you haven’t already).</li>
+
+<h2>Crafting System</h2>
+<li>Many recipes have been added to the world for you to discover! Since we’re not chaotic evil, we’ll give you one: <i>using 10 sticks or 1 log in your satchel or workbench will create a campfire</i>.</li>
+<li>Most recipes involve some sort of crafting, cooking, and/or distilling. We expect that information about this crafting system to be traded through in-character interactions. Furthermore, we’ve tried our best to make the required items pretty self-evident, so play around by dragging different items, item combinations, and quantities, into different crafting contexts to find out!</li>
+<li>Campfires and cooking pots already in the world can now be used to open the campfire / cooking crafting context. Just make sure the fire is lit!</li>
+<li>Distillers have been built inside various moonshining shacks found throughout the world and can be used to open the distilling crafting context.</li>
+<li>Workbenches, such as the one found inside the Valentine stables, can be used to open the workbench crafting context. Allowing you to craft with larger recipes.</li>
+
+<h2>Player Searching / Robbing</h2>
+<li>The player search mechanics have been opened up for all players.</li>
+<li>In order to initiate a search, a player must have their hands up, be hogtied, or cuffed.</li>
+<li>To search on a player, right-click to focus on them and use the “Search” prompt.</li>
+<li>Searching allows the searcher to freely move items between the searchee and their inventory / equipment bar.</li>
+
+<h2>Lock Picking / Safe Cracking</h2>
+<li>Some doors throughout the world can now be lock picked.</li>
+<li>A variety of storage containers are now in the world and may be locked, get to crackin!</li>
+<li>As a note, both minigames have very fine audio cues for knowing when things are just right, be sure to listen carefully.</li>
+<li>During lock picking you must click and hold and drag to move the lock pick and set the pins appropriately.  If you move too fast, too far, etc the lock pick may break.</li>
+<li>During safe cracking you must click and hold and drag in a circular motion to move the safe dial.  For players information, to open a safe lock, you must go 3 revolutions to the left first (on the 4th revolution you will hear your first click when it hits the right number), then 2 revolutions right past the previous number (on 3rd revolution click will occur on correct number), 1 revolution left past the previous number (on 2nd revolution click will occur on correct number), then swing right again until the safe opens.  Good luck!</li>
+<li style="color:red">NOTE: IF YOU TURNED OFF YOUR REDM/CHROMIUM SOUNDS IN VOLUME CONTROL, TURN THEM BACK ON OR YOU WILL FAIL AT BOTH OF THESE!</li>
+<li>Artwork for both of these mini-games was done by Osario, our newest member of the creative direction team. Original concept art was drawn by iNj3cTeD and Weiner.</li>
+
+<h2>Bank Robberies</h2>
+<li>The bank robbery activity has been added to the world in two locations: Blackwater and Valentine.</li>
+<li>Starting a bank robbery will notify the LEO of suspicious activity.</li>
+<li>Bank robberies require careful planning, certain items, and skillful hands to accomplish them successfully. They aren’t as simple as just standing there!</li>
+<li>During a bank robbery, the building will go into “lockdown” preventing players from using their banking feature for 60 minutes.</li>
+<li>Bank robberies have a 4hr cooldown before more valuables can be looted from safes within the vault. (We don’t want to overwhelm LEOs!)</li>
+<li>Banks are now fully staffed with bank tellers and guard NPC(s). The guard WILL be hostile towards anyone who breaks in.</li>
+<li>Bank robbery difficulty and rewards will be adjusted over time as we gain more insight on how players use the system.</li>
+<li>To initiate a bank robbery, the teller gates or back door can be lock picked, you will only be able to do this if 4 LEO are clocked in.  The automated system will tell you if this is possible when you attempt to do so.</li>
+<li>Players have a 4 day cooldown for being involved in bank robberies, please refer to ruleset.</li>
+<li>Please ensure you read the rule set that has been formed around Bank Robberies so there is no confusion as to what is acceptable.</li>
+
+<h2>Moonshining</h2>
+<li>Crafting mash is now done through satchel or workbench crafting contexts, and the recipe has changed to no longer include the bucket, an updated pamphlet can be found, if you already have one or by buying one.</li>
+<li>Crafting moonshine requires a distiller, which can be found in the aforementioned places.</li>
+<li>Lowered sell price of moonshine to $3.00.</li>
+<li>Otis the moonshiner has been moved to a new location (the man who buys your shine!).</li>
+
+<h2>Moonshine Runs</h2>
+<li>Moonshine run activities have been added to the world, available at all locations you would normally expect to find them.</li>
+<li>Moonshine runs will notify the LEO of suspicious activity.</li>
+<li>Moonshine runs currently cost 50 moonshine and must be redeemed at the NPC runners (you will know it when you see it) and you must have 50 moonshine in your inventory to even make the start locations appear around you.</li>
+<li>To offset the decreased risk of new moonshine creation techniques (through crafting) and the decrease in sell price of moonshine itself, we created moonshine runs to add more risk, more reward to the system in full.  Moonshine runs are optional and not required, a person can still sell moonshine as is.</li>
+<li>Moonshine runs have a cooldown per location of 2 hours (preventing others from using it for the cooldown duration).</li>
+<li>When the delivery job timer runs out, the vehicle will be… dismantled.</li>
+<li>There must be a minimum of 2 LEO online to start a moonshine run.  The system will let you know if you can start one or not, so no guesswork when trying to do one.</li>
+
+<h2>Anonymous Tip Line (ANON)</h2>
+<li>An anonymous tip line has been added to the game for LEOs to view, and players to send telegrams to.</li>
+<li>Players who wish to send a telegram to the anonymous tip line may send a telegram to ANON (non case sensitive) and the LEOs will receive it at their desks.</li>
+<li>Tip lines reside at all front desks of each sheriff office. You will receive a prompt for the tip line when standing in front of it.</li>
+<li>The automated suspicious activity system will automatically send a telegram to the anonymous tip line with available details of the suspicious activity that was spotted.</li>
+<li>If suspicious activity is spotted by the automated system (through bank robberies or moonshine runs), LEOs will receive a notification in the top right that such a message was delivered.  Visit your nearest sheriff office to view details about it.</li>
+
+<h2>Detail System (aka Scene)</h2>
+<li>/detail will now allow you to place a message in the world resulting in an eye icon that lives in the world for a specified period of time that any player can view.  There is a max of 50 characters, much like the /me system.</li>
+<li>Players can only have 10 per character active at any time.  Once you remove one manually or it’s timer runs out on active ones in the world, you will then be able to place another.
+- Players can view the details in the world by looking for the eye icons that other users have placed by walking up to them and using the Left Alt prompt.</li>
+<li>Players can remove their own active detail messages by using Backspace prompt while next to a detail.</li>
+<li>Detail messages cannot be placed too close to one another (Prompt distance showing/hiding worth).</li>
+<li>We expect players to utilize proper behavior when placing these messages in the world.  Anything deemed inappropriate will be removed and harsh punishment will ensue ::KONOSMASH::</li>
+<li>This is not a substitute for a note / physical letter system, that will come in a future patch.</li>
+
+<h2>/Sit and /Lay system</h2>
+<li>You may now lay on beds throughout the world using the /lay command.</li>
+<li>You may now sit on chairs, couches, and benches and start one of 12 female (11 male) scenarios. Usage /sit #.</li>
+<li>The system will detect an object near/next to you that is sittable and attempt to sit you in it running the specified version with the # (i.e. /sit 7 will sit comfortably with your hands in your lap)</li>
+
+<h2>Character Permissions / Professions</h2>
+<li>Profession based permissions such as Law Enforcement, Train Conductor, Doctor, and Newspaper will now be assigned directly to the character and not the whole account.</li>
+<li>Professions now have had their pay increased, and this will be tracked and adjusted over time.</li>
+
+<h2>Placement System</h2>
+<li>A new preview of our placement system has been added.</li>
+<li>This system is accessible through placing a campfire, craft one and try to place it in the world.</li>
+<li>This system will be fine tuned over time and will eventually lead into player campsites and other features.</li>
+
+<h2>Improved / Added Animations</h2>
+<li>Pointing now uses a more satisfying animation and properly twists your body and points in the direction your camera is facing.</li>
+<li>Putting hands up now has a smooth transition, making it feel more realistic.</li>
+<li>Dropping animation has been changed and is now more appropriate.</li>
+<li>Pickup animation has been changed and is now less intrusive.</li>
+<li>Reading a newspaper will now show the player reading a newspaper to all other players!</li>
+<li>Looking at the map will now show the player looking at a map to all other players!</li>
+
+<h2>Improved Shop Screen</h2>
+<li>Alphabetized items in shop screens for easier finding of specific items.</li>
+<li>Added item icon images next to each selection in the shop windows.</li>
+
+<h2>Shady Salesman</h2>
+<li>A shady salesman has been added to the world.</li>
+
+<h2>Horse Feeding System</h2>
+<li>The horse feeding system will now allow a player to feed while on horseback, use the "Feed Horse" context menu option from your inventory while on horseback.</li>
+<li>The “Feed Horse” context menu can also be used while standing next to your horse.</li>
+<li>Horses will now eat turnips and celery.</li>
+
+<h2>New Items</h2>
+<li>Banjo has been added for purchase.</li>
+<li>Fiddle has been added for purchase.</li>
+<li>Harmonica has been added for purchase.</li>
+<li>Jaw Harp has been added for purchase.</li>
+<li>Mandolin has been added for purchase.</li>
+<li>Concertina has been added for purchase.</li>
+<li>Lockpicks have been added somewhere.</li>
+<li>Items to create something "explosive" have been added.</li>
+<li>Campfire kit has been added.</li>
+<li>Animal glue has been added for purchase.</li>
+<li>Flint has been added, can be mined.</li>
+<li>Bond Papers have been added to the game.</li>
+<li>Gold Bars have been added to the game.</li>
+<li>Sage has been added and is gatherable in the world.</li>
+<li>Salt has been added for purchase.</li>
+<li>Map item has been added for purchase (for real).</li>
+
+<h2>Sams Safe</h2>
+<li>A safe cracking tutorial of sorts has been placed in Sam's secret hideout in blackwater.</li>
+<li>Players can learn how to safe-crack by attempting to gain access to his safe on the wall.</li>
+<li>This feature is mainly for learning and will not yield anything great in terms of reward for cracking it.</li>
+
+<h2>Water Pumps</h2>
+<li>New water pumps have been added within Blackwater and Valentine.</li>
+
+<h2>Control Rebinds</h2>
+<li>Entering a property via the Enter Property prompt has now been changed to G instead of Left Alt.</li>
+<li>Placing an animal on a cart has been changed to G instead of Left Alt.</li>
+<li>Entering a bathtub has been changed to G instead of Left Alt.</li>
+
+<h2>Server Stability</h2>
+<li>The server now has a player ping limit of 300, this is configurable and we will adjust it if necessary.  Expect for the server to not allow your connection if your ping is too high!</li>
+<li>The server will now prevent connection from players who are still connected according to the server.  This can be sometimes due to crashing or restarting the game.  We believe this to be some of the causes of recent instancing issues and are hopeful this will resolve the issue.  We have also ensured the grace period for crashes and disconnects for both in game and in the queue are properly set.</li>
+<li>Improved stability of other issues that should lessen the likelihood of instancing occurring.</li>
+
+<h2>Bug Fixes</h2>
+<li>Fixed issue with throwing weapons being removed while relogging or quitting.  You should now retain your weapons.</li>
+<li>Removed names from /me in the chat box.</li>
+<li>The stat panel and voice meter should now show while downed.</li>
+<li>The stat panel will now correctly hide if another window would be covering it.</li>
+<li>Increased visibility of cardinal directions on the stat panel compass.</li>
+<li>Having a trade or search cancelled while dragging an item no longer creates a magical item on your cursor.</li>
+<li>Players should now receive snake skins from snakes properly.</li>
+<li>Opening your inventory while gathering should now correctly update the inventory screen with the new item(s).</li>
+<li>Dropping items by dragging or right click dropping should no longer be allowed while trading, searching, or crafting.</li>
+<li>Valentine Tailor room is now placed next to the door to access, players should be able to converse through the wall/door.</li>
+<li>Removed all of the snow... it was clogging things.</li>
+<li>Dropped items will now be invincible, so they don't break, or explode.</li>
+<li>Particle effects triggered by events are now properly networked.</li>
+<li>Corrected an issue with carried players not loading interiors or imaps correctly.</li>
+<li>When players are downed and they are cuffed, the cuffs are now removed as this was causing issues upon revival.</li>
+<li>Various items when dropped will no longer float.</li>
+<li>Female models can now drink alcohol properly.</li>
+<li>Fixed a UI issue where the chatbox would cause the stat panel and the UI to jump up on the screen.</li>
+<li>Added a /quit command to the chatbox for easier quitting, <b>DO NOT USE ESCAPE MENU TO QUIT GAME</b>.</li>
+<li>Various improvements to performance throughout the framework to enable better and smoother gameplay.</li>
+<li>Fixed a bug causing extra ammo to be removed when the used ammo stack is less than the available ammo slots in a weapon.</li>
+
+<h2>Special Thanks</h2>
+<li>Special thanks to all the staff who painstakingly helped test and iron at as many issues and bugs as we could during this gigantic feature fest.</li>
+
+<br>
+<br>
+
+<h1>Searching, Stowing, Sticks, and Satchel Slots</h1>
+<small>Version 1.26 / UPDATED 01.05.21</small>
+
+<h5>Player Searching</h5>
+<li>New player searching feature added.</li>
+<li>Available for testing by Law Enforcement players only for a few weeks while we iron out any problems.</li>
+<li>The player you wish to search must either have their hands up, cuffed, or hogtied.</li>
+<li>Searching players is similar to trading where the player you wish to search has to agree to be searched via a notification and confirmation key press.</li>
+
+
+<h2>Stowing Medium Pelts</h2>
+<li>While carrying a medium pelt you may now right click on your horse, use the Stow prompt and store pelts that lay flat on the back of the horse.</li>
+<li>Pelts are removed by using the "Sell Carried Items" prompt at a butcher while your horse is within range.</li>
+
+<h2>Various Changes and Fixes</h2>
+<li>Stick item added and can be gathered from blackberry bushes and orange trees. Use 10 to create a campfire.</li>
+<li>Satchel slots have been increased to 20!</li>
+<li>Weather has been changed to Sunny with Snow on the ground for a few weeks.</li>
+<li>Home button no longer shows steam names. Instead it'll show you server id - character id.</li>
+<li>First name of character has been removed from prompt and trade/search windows.</li>
+<li>Pipe item model has been updated to be a pipe instead of a shovel.</li>
+<li>The moonshiner fence has moved and is buying moonshine at a higher price. Careful exposing his location as he'll move again!</li>
+<li>Moonshine Mash stack sizes set to 5.</li>
+<li>Disabled opening cabinets/drawers etc. when within range of a Changing Room prompt.</li>
+<li>Boat rental added to St. Denis for Law Enforcement (everybody can use during times St. Denis is within AOP) so they can transport to Sisika Penitentiary.</li>
+<li>Fixed deposit/withdrawal of negative amounts from the bank.</li>
+<li>Fixed Law Enforcement lantern showing on horse when in horse inventory.</li>
+<br>
+<br>
+
+
+
+<h1>Ya'll need more bullets</h1>
+<small>Version 1.25 / UPDATED 12.22.20</small>
+
+<h5>Weapon Damage</h5>
+<li>Head shot damage from a gun no longer one shot kills you.</li>
+<li>Weapon damage from repeaters, rifles, and shotguns has been lowered against other players. Let us know if we went too far or not enough. :)</li>
+
+<h2>Various Changes and Fixes</h2>
+<li>There has be a glut of moonshine in Saints Crossing and prices have been adjusted accordingly.</li>
+<li>Moonshine now stacks to 5.</li>
+<li>Fixed a bug in the queue manager that was crashing the server.</li>
+<li>Law Enforcement now have their own weapons and equipment and shop owners will not purchase them.</li>
+
+
+<br>
+<br>
+
+
+<h1>Carnival</h1>
+<small>Version 1.241 / UPDATED 12.18.20</small>
+
+<h5>Carnival / Blackwater</h5>
+<li>Props have been placed throughout Blackwater for use in the Carnival events and fun.</li>
+<li>Weather has been set to Sunny and clear skies and time will be set to 12AM during the Carnival.</li>
+
+<h2>Various Changes and Fixes</h2>
+<li>Removed IPL that was showing grass and bushes inside various locations in the Wapiti Indian Reservation.</li>
+<li>Locked Sisika Penitentiary outerwall gates and Law Enforcement have a prompt to unlock/lock.</li>
+<li>Player horses should no longer flee if you're shooting.</li>
+<li>Toodaloo to dancing while carrying a npc or player.</li>
+<li>You may no longer pick up items while in the bathtub or while cuffed.</li>
+<li>Additional code to catch errors causing the server to crash.</li>
+
+<br>
+<br>
+
+
+<h1>Changing, Dancing, Storage, and Hair</h1>
+<small>Version 1.24 / UPDATED 12.15.20</small>
+
+<h5>Dancing</h5>
+<li>/dance command added. Choose between 17 different dances.</li>
+<li>Dances added to new section on the emote/action wheel.</li>
+
+<h2>Storage Containers</h2>
+<li>New Storage Containers system created. This system allows for variable slots in a storage container that can be placed anywhere in the world with or without permissions. This is the foundation for future features such as treasure hunting, player camp/housing storage and bank lock boxes.</li>
+<li>Law Enforcement will help test this feature over the next few weeks. Several storage containers have been added to each Sheriff office and accessible via a prompt if you have permission.</li>
+
+<h2>Hair</h2>
+<li>6 new male facial hair styles added.</li>
+<li>3 male and 3 female hair styles added.</li>
+<li>Hair Pomade item added to general stores. It doesnâ€™t apply any effect to your hair but has an on use animation.</li>
+
+<h2>Horses</h2>
+<li>44 Saddles, 53 saddle horns, 11 blankets, 67 saddle bags, 43 stirrups added to horse customization.</li>
+<li>Added None option back for Horse Saddles.</li>
+
+<h2>Changing Rooms</h2>
+<li>Changing rooms have been added to Valentine, Blackwater, Strawberry, Thieves Landing, Sisika Penitentiary, and the St. Denis Theater backstage.</li>
+<li>Changing rooms allow you to switch between purchased outfits only. You will still need to visit a Tailor to create a new outfit.</li>
+
+<h2>Various Changes and Fixes</h2>
+<li>Water Pumps in Blackwater will now fill your water bottle and satisfy thirst.</li>
+<li>Disabled opening cabinets/drawers/chests etc. when near a shop to prevent an issue with opening the shop.</li>
+<li>Mining rewards will now have a model when dropped from your inventory.</li>
+<li>Common items rewarded from mining have had their sell prices slightly lowered.</li>
+<li>Rolled Cigarettes weight reduced.</li>
+<li>Salmon and Trout have had their weights lowered.</li>
+<li>Wapiti Indian Reservation will no longer spawn NPCs.</li>
+<li>Sisika Penitentiary now has a post office and the fishing rod item has been added to the store.</li>
+
+<br>
+<br>
+
+<h1>Moonshining!</h1>
+<small>Version 1.23 / UPDATED 12.08.20</small>
+
+<h5>New NPC</h5>
+<li>Moonshiner NPC added to the world that will buy and sell illegal moonshine and also a pamphlet describing how to make moonshine.</li>
+
+<h2>Items</h2>
+<li>Moonshine now has a 60 second visual effect when drinking and has been removed from stores as it is now illegal but sells at an increased price.</li>
+<li>Moonshining Pamphlet added describing ingredients and equipment needed to craft moonshine.</li>
+<li>Cigarette papers added to general stores, when crafted with tobacco produces Rolled Cigarettes.</li>
+<li>Pipe added to general stores, when used with tobacco provides smoking animation with Smoke prompt.</li>
+<li>Sugar Cubes added to general stores. A sweet treat for you and your horse.</li>
+<li>Corn on the cob can be created by cooking corn and satisfies hunger.</li>
+<li>Cigarettes have increased in price, cheap cigarettes are no longer sold and have been renamed to Rolled Cigarettes</li>
+
+<h2>Gathering and Hunting</h2>
+<li>Berry picking will now yield 3 berries per gather.</li>
+<li>Skinning medium and large animals will now give you a chance to receive a piece of meat.</li>
+<li>Tobacco leaves can be gathered from tobacco plants throughout the world (similar to berry picking) and can be processed into tobacco to roll cigarettes or use in a pipe.</li>
+<li>Corn and wheat can be gathered throughout the world.</li>
+
+<h2>Various changes and fixes</h2>
+<li>Knockout system and itâ€™s debuff removed due to a couple of bugs and will be revisited as time permits.</li>
+<li>Inventory and action/emote wheel should now open more consistently.</li><li>
+</li><li>All moonshine shacks except the one in Thieves Landing have had their blips removed.</li>
+<li>You can now sit at the tables with chairs in moonshiner shacks.</li>
+<li>NPCs should no longer spawn inside moonshiner shacks.</li>
+<li>AFK timer now refreshes while mining.</li>
+
+<br>
+<br>
+
+
+<h1>'Tis the Season Four</h1>
+<small>Version 1.22 / UPDATED 12.01.20</small>
+
+<h5>Salty Chat updated to 2.1.0.</h5>
+<li>Please upgrade to the latest version of the Salty Chat plugin if you haven't already done so.</li>
+
+<h2>New AOP</h2>
+<li>Area of Play (AOP) has been changed to Valentine, Strawberry, Blackwater and Thieves Landing.</li>
+<li>Moonshiner shacks have moved into the new AOP.</li>
+<li>Fishmonger, Wagon Rental, Theater, and a new hidden location added to Blackwater.</li>
+<li>Tailor and Wagon Rental added to Valentine.</li>
+<li>Thieves Landing now has a general store, butcher, stables, wagon rental, boat rental, and moonshiner shack.</li>
+
+<h2>Fishing!</h2>
+<li>Mini-game removed in favor of more immersive mechanics.</li>
+<li>New bait and lure items have been added that can be attached to a fishing rod.</li>
+<li>Depending on the bait/lure used, weather, and time of day, the chance of a fish being attracted to the bait or biting will decrease or increase.</li>
+<li>Caught fish will sell for a higher value over fish shot, kicked, found on the shore, or otherwise tarnished.</li>
+<li>All sizes of fish can now be sold to the butchers and can no longer be sold to the general stores. The fishmonger will purchase select types of perfect quality fish at higher prices than the butchers.</li>
+
+<h2>New UI</h2>
+<li>Mini-map is now a compass only with a new design for your health and stamina.</li>
+<li>Horse health and stamina will now only show while youâ€™re riding a horse.</li>
+<li>/hud will toggle the ui on and off.</li>
+
+<h2>Hunger and Thirst Stats and Debuff</h2>
+<li>Various foods and wild berry picking replenish hunger.</li>
+<li>Various liquids and drinking from any body of water will replenish your thirst.</li>
+<li>If hunger and/or thirst reach zero you will see a debuff until both stats are above zero.</li>
+
+<h2>Knockout and Revive Debuff</h2>
+<li>New screen effects added if you are knocked out or revived.</li>
+
+<h2>Walking Styles</h2>
+<li>New walking styles added and old ones removed that other players could not see. These are more subtle than before but everybody around you will now see the walking style.</li>
+
+<h2>New Queue Functionality</h2>
+<li>Added an information card showing details about your placement in the queue and interesting tips!</li>
+<li>The queue has been split into two parts, those waiting in queue and those waiting to load into the world. If you are in â€œWaiting to enter worldâ€ a spot has been reserved for you on the server, and you are just waiting for other people's games to load.</li>
+
+<h2>Story Continuation Flavor Text</h2>
+<li>Upon entering the game fancy text will display on the screen to show the approximate passage of in-game time. (This isnâ€™t absolute, and shouldnâ€™t dictate RP. Please continue to use your own discretion when talking about passage of time in-game).</li>
+<li>This feature will only activate after the first session, after this update, on a given character.</li>
+<li>Leaving and joining with a five minute time period will not display a message.</li>
+
+<h2>Civilian Doctor Role</h2>
+<li>A new role and permission have been created that allow for Civilian Doctors to use med bags without them being deleted upon use.</li>
+
+<h2>Law Enforcement</h2>
+<li>Times and fines adjusted.</li>
+<li>Prison Island now has a cell block and store for inmates.</li>
+<li>Reports updated with number of counts per crime and crimes section updated to be easier to read.</li>
+<li>/leo screen search boxes will now recognize the last character typed.</li>
+<li>/jail info has been changed to new AOP.</li>
+<li>St. Denis Leo Chair will allow you to sit after /relog.</li>
+
+<h2>Items</h2>
+<li>Black Berry food items added and these can be gathered throughout the world!</li>
+<li>Tarot cards can now be picked up in the world and combined to make a pack of tarot cards.</li>
+<li>Cigarettes are no longer infinitely powered by magical tobacco. In other words, cigarettes now burn for a maximum of 5 minutes.</li>
+<li>A Journal item has been added to the Games and Special Items shop. You can't write in it (maybe later) but it's a cool prop.</li>
+<li>Coffee now has coffee. Liquid will now show in your cup unfortunately others still see no liquid.</li>
+<li>Bowl of Stew added to Saloons. Provides a bowl and spoon and satisfies hunger.</li>
+<li>Med Bags now take 2 minutes to complete the revival process.</li>
+<li>Bottle of Milk item added to general stores and satisfies thirst.</li>
+<li>Water Canteen items added to general stores and can be filled at any body of water and satisfies thirst.</li>
+<li>Gold and Silver Pocket watches with on use to look at the time have been added to general stores.</li>
+
+<h2>Economy</h2>
+<li>Gator season is over. Prices have been adjusted to be inline with similar animals.</li>
+<li>Wagon rentals are now more affordable.</li>
+
+<h2>Object placement and saving</h2>
+<li>A new system for placing objects in the world and saving their location in the database allows non-dev staff the ability to place objects in the world. This system will be the foundation for other systems. Theater sets? Player housing? Camps?</li>
+
+<h2>St. Denis Theater.</h2>
+<li>Locked main interior doors and locked side doors. This prevents kicks or barges that result in these doors opening into the void.</li>
+<li>Stage now has a back exit that is accessible via the doors opposite the Police Station when AOP is in St. Denis. Useful for costume changes or spying on the cops.</li>
+<li>Stage backdrop can now be changed between various options via a prompt located on stage.</li>
+<li>Blackwater Theater now has a prompt to enter the St. Denis Theater due to new AOP.</li>
+
+<h2>New Features</h2>
+<li>Hundreds of new clothing items added and organized to character creation and tailor.</li>
+<li>Boat rentals added similar to wagon rentals where you can rent one boat per hour and boats last as long as you keep them safe. Be sure to avoid crossing buoy marked areas or else you may sink!</li>
+<li>Breton and Norfolk Roadster horses added to stables.</li>
+<li>Sit prompts added to gaming tables so you can now sit at tables previously unusable. Table games and tarot cards coming later. :)</li>
+<li>Mining mini-game has been removed in favor of a varied timer.</li>
+<li>You can now change the interior of the speakeasy area of moonshiner shacks and choose from 10 different variations.</li>
+<li>Weather has been networked and code for showing snow on the ground.</li>
+<li>/train menu can now show prompts to control the speed of the train without having the train menu open.</li>
+<li>Train can now be spawned with an engineer NPC that will refuse to give up the controls.</li>
+<li>Terry the tailor and Micky the fishmonger NPCS added.</li>
+<li>Internal changes to the structure of commands. Some commands will now have default arguments.</li>
+
+<h2>Various fixes</h2> 
+<li>St. Denis Special Items Dungeon Enter/Exit Prompt distances fixed.</li>
+<li>Unlocked St. Denis Saloon #2 coat closet due to several players being stuck inside.</li>
+<li>Fixed debug spam in log when carrying a med bag.</li>
+<li>Fixed issue where rented wagons sometimes disappear if you are no longer within range.</li>
+<li>Network Deletion code added that should result in duplicate animals and items being deleted correctly from the world.</li>
+<li>Removed all prompt groups which were blocking players from reviving or picking up players next to shops, doors or dropped items.</li>
+<li>Removed Josiah Blackwater movie in the cinema due to content not appropriate for the server. </li>
+<li>Bathtub base animation changed to reduce water sounds for everybody else.</li>
+<li>Players will now spawn with full health, as opposed to the three quarters you used to start with.</li>
+<li>Weapons can no longer be moved within the weapon hotbar, thus you can no longer confuse the game into creating an endless stream of knives that spew forth from your being.</li>
+
+</ul>
